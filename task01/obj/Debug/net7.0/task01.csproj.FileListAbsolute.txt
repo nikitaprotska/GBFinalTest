@@ -1,0 +1,14 @@
+D:\OneDrive\Рабочий стол\GBFinalTest\task01\bin\Debug\net7.0\task01.exe
+D:\OneDrive\Рабочий стол\GBFinalTest\task01\bin\Debug\net7.0\task01.deps.json
+D:\OneDrive\Рабочий стол\GBFinalTest\task01\bin\Debug\net7.0\task01.runtimeconfig.json
+D:\OneDrive\Рабочий стол\GBFinalTest\task01\bin\Debug\net7.0\task01.dll
+D:\OneDrive\Рабочий стол\GBFinalTest\task01\bin\Debug\net7.0\task01.pdb
+D:\OneDrive\Рабочий стол\GBFinalTest\task01\obj\Debug\net7.0\task01.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\GBFinalTest\task01\obj\Debug\net7.0\task01.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\GBFinalTest\task01\obj\Debug\net7.0\task01.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\GBFinalTest\task01\obj\Debug\net7.0\task01.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\GBFinalTest\task01\obj\Debug\net7.0\task01.dll
+D:\OneDrive\Рабочий стол\GBFinalTest\task01\obj\Debug\net7.0\refint\task01.dll
+D:\OneDrive\Рабочий стол\GBFinalTest\task01\obj\Debug\net7.0\task01.pdb
+D:\OneDrive\Рабочий стол\GBFinalTest\task01\obj\Debug\net7.0\task01.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\GBFinalTest\task01\obj\Debug\net7.0\ref\task01.dll
